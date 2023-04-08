@@ -1,0 +1,1 @@
+python ./train.py --data_path ./data/input.csv --graph_path ./data/graph.csv --width 5 --epoch 200 --batch_size 10
