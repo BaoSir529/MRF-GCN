@@ -18,9 +18,9 @@ Prediction model with multi-point relationship fusion via graph convolutional ne
 ```bash
 python ./train.py --data_path ./data/input.csv --graph_path ./data/graph.csv --width 5 --epoch 200 --batch_size 10
 ```
-* Or training with the script file [run.sh](./run.sh)
+* Or training with the script file [train.sh](./train.sh)
 ```bash
-bash run.sh
+bash train.sh
 ```
 
 ## Citation
